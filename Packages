@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Anirudh Sevugan
 Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/me.anirudhsevugan.petitstatus_0.0.1_iphoneos-arm.deb
+Filename: /debs/me.anirudhsevugan.petitstatus_0.0.1_iphoneos-arm.deb
 Size: 2234
 MD5sum: 8691929679b9d3ae2017d893d0457d45
 SHA1: 5f2b917c7d010815ea754d1e93a06982ad653b65

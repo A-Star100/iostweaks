@@ -3,5 +3,5 @@
   Access-Control-Allow-Origin: *
 
 /customsfx/*
-  Content-Type: audio/x-caf
+  Content-Type: application/vnd.debian.binary-package
   Access-Control-Allow-Origin: *

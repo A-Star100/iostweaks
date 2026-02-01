@@ -1,5 +1,3 @@
-/*
-  Access-Control-Allow-Origin: *
-
-/debs/*.deb
+/debs/*
   Content-Type: application/vnd.debian.binary-package
+  Access-Control-Allow-Origin: *

@@ -1,3 +1,7 @@
 /debs/*
   Content-Type: application/vnd.debian.binary-package
   Access-Control-Allow-Origin: *
+
+/customsfx/*
+  Content-Type: audio/x-caf
+  Access-Control-Allow-Origin: *

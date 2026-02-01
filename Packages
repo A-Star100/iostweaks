@@ -1,0 +1,16 @@
+Package: me.anirudhsevugan.petitstatus
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Anirudh Sevugan
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/me.anirudhsevugan.petitstatus_0.0.1_iphoneos-arm.deb
+Size: 2234
+MD5sum: 8691929679b9d3ae2017d893d0457d45
+SHA1: 5f2b917c7d010815ea754d1e93a06982ad653b65
+SHA256: e7bc9237c269592ee37f850c3ccd0f83659934e355495abb54857e86435c83c8
+Section: Tweaks
+Description: Small status bar everywhere (intended for iPads)
+Author: Anirudh Sevugan
+Name: PetitStatus
+
